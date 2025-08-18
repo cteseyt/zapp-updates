@@ -1,14 +1,14 @@
 {
-  "appId": "Zapp",
-  "version": "1.0.0",
-  "published": "2025-08-18T14:00:00Z",
-  "mandatory": false,
-  "channel": "stable",
-  "asset": {
-    "fileName": "Zapp-v1.0.0.zip",
-    "size": 76761898,
-    "sha256": "EBCDF51A3C4A4AB897C434A58B5E25EA550ED49785104C262AD8B637E82ECB74",
-    "url": "https://github.com/cteseyt/zapp-updates/releases/download/v1.0.0/Zapp-v1.0.0.zip"
+  "AppId": "Zapp",
+  "Version": "1.0.0",
+  "Published": "2025-08-18T14:00:00Z",
+  "Mandatory": false,
+  "Channel": "stable",
+  "Asset": {
+    "FileName": "Zapp-v1.0.0.zip",
+    "Size": 76761898,
+    "Sha256": "EBCDF51A3C4A4AB897C434A58B5E25EA550ED49785104C262AD8B637E82ECB74",
+    "Url": "https://github.com/cteseyt/zapp-updates/releases/download/v1.0.0/Zapp-v1.0.0.zip"
   },
-  "releaseNotes": "Prima versione di test distribuita con il launcher."
+  "ReleaseNotes": "Prima versione di test distribuita con il launcher."
 }
