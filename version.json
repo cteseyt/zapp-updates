@@ -7,11 +7,12 @@
   "Asset": {
     "FileName": "Zapp-v1.0.1.zip",
     "Size": 76761898,
-    "Sha256": "8939fdf2a95d12e3dce742dfd3d669a4abaf903eb105801a206e87f6a7c694ec",
+    "Sha256": "eb4dc41e4a8f60ad03be6e14acb33e852ce8141cf8bb9bd52b46a890794d6482",
     "Url": "https://github.com/cteseyt/zapp-updates/releases/download/v1.0.1/Zapp-v1.0.1.zip"
   },
   "ReleaseNotes": "Prima versione di test distribuita con il launcher + mini bug fix self-coint+favoriti"
 }
+
 
 
 
